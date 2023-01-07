@@ -1,0 +1,9 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.bola{
+    width: 30vw;
+    height: 20vh;
+    border: 1px solid red;
+}
